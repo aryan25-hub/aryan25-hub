@@ -1,5 +1,5 @@
 # 💫 About Me:
-while(!success){<br>    tryAgain();<br>    learn();<br>    improve();<br>}<br>👋 About Me<br><br>🎓 Computer Science Student<br><br>💻 MERN Stack Developer<br><br>☕ C++ + DSA  <br><br>🧠 Learning Computer Architecture & System Design<br><br>🏋️ On a Lean Muscle + Discipline Journey
+while(!success){<br>    tryAgain();<br>    learn();<br>    improve();<br>}<br>🎓 Computer Science Student<br><br>💻 MERN Stack Developer<br><br>☕ C++ + DSA  <br><br>🧠 Learning Computer Architecture & System Design<br><br>🏋️ On a Lean Muscle + Discipline Journey
 
 
 ## 🌐 Socials:
