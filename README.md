@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aryan25-hub
-- 👀 I’m interested in WebD, Web3 and Blockchain.
+- 👋 Hi, I’m Aryan Singh
+- 👀 I’m interested in Web Development and AI.
 - 🌱 I’m currently learning react and Web development.
 - 📫 reach me at aryanwifi25@gmail.com
 - ⚡ Fun fact: Coders doesn't code, they github it.
