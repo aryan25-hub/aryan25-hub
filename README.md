@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aryan Singh
 - 👀 I’m interested in Web Development and AI.
 - 🌱 I’m currently learning react and Web development.
-- 📫 reach me at aryanwifi25@gmail.com
+- 📫 reach me at aryansinghhh25s@gmail.com
 - ⚡ Fun fact: Coders doesn't code, they github it.
 
 <!---
